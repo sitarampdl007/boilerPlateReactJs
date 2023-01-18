@@ -1,6 +1,6 @@
 import React from "react";
-import Section1 from "../sections/Home/Section1";
-import Section2 from "../sections/Home/Section2";
+import Section1 from "../sections/Home/Section1/Section1";
+import Section2 from "../sections/Home/Section2/Section2";
 
 function Home() {
   return (
